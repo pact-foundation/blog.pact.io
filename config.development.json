@@ -10,14 +10,8 @@
       "filename": "content/data/ghost-local.db"
     }
   },
-  "mail": {
-    "transport": "Direct"
-  },
   "logging": {
-    "transports": [
-      "file",
-      "stdout"
-    ]
+    "transports": ["file", "stdout"]
   },
   "process": "local",
   "paths": {
