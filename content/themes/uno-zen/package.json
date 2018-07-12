@@ -1,0 +1,79 @@
+{
+  "_from": "github:Kikobeats/uno-zen#2.9.8",
+  "_id": "uno-zen@2.9.8",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/uno-zen",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "uno-zen@github:Kikobeats/uno-zen#2.9.8",
+    "name": "uno-zen",
+    "escapedName": "uno-zen",
+    "rawSpec": "github:Kikobeats/uno-zen#2.9.8",
+    "saveSpec": "github:Kikobeats/uno-zen#2.9.8",
+    "fetchSpec": null,
+    "gitCommittish": "2.9.8"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:Kikobeats/uno-zen#20369f772f49551f9b30a9b3becf1fda4ef2a8a6",
+  "_spec": "uno-zen@github:Kikobeats/uno-zen#2.9.8",
+  "_where": "/Users/mfellows/development/public/pact-blog",
+  "author": {
+    "name": "Kiko Beats",
+    "email": "josefrancisco.verdu@gmail.com",
+    "url": "https://github.com/kikobeats"
+  },
+  "browserSync": {
+    "files": [
+      "**/*.html",
+      "assets/**/*.*"
+    ],
+    "port": 3000,
+    "proxy": "http://127.0.0.1:2387"
+  },
+  "bugs": {
+    "url": "https://github.com/Kikobeats/uno-zen/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Minimalist and Elegant theme for Ghost",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "coffee-script": "latest",
+    "gulp": "latest",
+    "gulp-add-src": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-changed": "latest",
+    "gulp-coffee": "latest",
+    "gulp-concat": "latest",
+    "gulp-cssnano": "latest",
+    "gulp-header": "latest",
+    "gulp-if": "latest",
+    "gulp-sass": "latest",
+    "gulp-strip-css-comments": "latest",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest"
+  },
+  "engines": {
+    "node": ">= 8"
+  },
+  "homepage": "https://github.com/kikobeats/uno-zen",
+  "keywords": [
+    "elegant",
+    "ghost",
+    "minimalism",
+    "theme",
+    "uno",
+    "zen"
+  ],
+  "license": "MIT",
+  "name": "uno-zen",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikobeats/uno-zen.git"
+  },
+  "version": "2.9.8"
+}
