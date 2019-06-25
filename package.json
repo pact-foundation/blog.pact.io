@@ -13,7 +13,7 @@
     "casper": "github:tryghost/Casper#2.1.0",
     "attila": "github:zutrinken/attila#1.7.0",
     "uno-zen": "github:Kikobeats/uno-zen#2.9.8",
-    "ghost": "^1.8.0",
+    "ghost": "^2.25.2",
     "ghost-storage-adapter-s3": "^2.3.0",
     "mysql": "^2.14.1"
   },
