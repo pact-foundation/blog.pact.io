@@ -1,3 +1,7 @@
+⚠️ This repository is now archived ⚠️
+--------------------------------- 
+The Pact blog has moved https://docs.pact.io/blog. For contributions, please see add them to https://github.com/pact-foundation/docs.pact.io
+
 # Pact Blog - [Ghost](https://github.com/TryGhost/Ghost) on [Heroku](http://heroku.com)
 
 Code for the Pact blog at blog.pact.io
